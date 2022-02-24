@@ -8,3 +8,4 @@ Change:-done by team mate for WI
 
 Change:- for the bug2
 
+Change:- For WI6 on local master to test normal.
